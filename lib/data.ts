@@ -1,5 +1,5 @@
 
-import { Data, IProductInput } from '@/types'
+import { Data, IProductInput } from '../types'
 import { toSlug } from './utils'
 
 
