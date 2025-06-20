@@ -22,4 +22,8 @@ const Toaster = ({ ...props }: ToasterProps) => {
   )
 }
 
-export { Toaster }
+export {
+  Toaster,
+  type ToastProps,
+  type ToastActionElement,
+}
